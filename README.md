@@ -8,7 +8,7 @@ Version 1.0, 5/15/2011
 
 View3D is a program that calculates view factors for planar polygons
 using an adaptive integration technique.  This plugin allows the input
-files for View3D to be displayed in SketchUp.
+files for View3D to be displayed in [SketchUp] (http://www.sketchup.com).
 
 ### Obtaining/Installation
 
@@ -18,7 +18,7 @@ License (GPL) version 3 as a single Ruby language file.  See the file
 it will be useful, but WITHOUT ANY WARRANTY; without even the implied
 warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-Place it in the "plugins" directory to use it (this location varies by
+Place the script file in the "plugins" directory to use it (this location varies by
 platform - check the SketchUp documentation for your platform). The
 next time that SketchUp is started, a new menu item "View3D" will be
 added in the "Plugins" menu.
